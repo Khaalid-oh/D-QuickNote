@@ -61,13 +61,13 @@ function NavBar() {
           <div className="hidden md:flex items-center space-x-4">
             <Link
               href="/login"
-              className="px-4 py-2 border-blue-500 border rounded-lg hover:bg-foreground/5"
+              className="px-4 py-2 border-blue-400 border rounded-lg hover:bg-foreground/5"
             >
               Log in
             </Link>
             <Link
               href="/signup"
-              className="px-4 py-2 rounded-lg bg-blue-500 text-white hover:bg-blue-600"
+              className="px-4 py-2 rounded-lg bg-blue-400 text-white hover:bg-blue-500"
             >
               Sign up
             </Link>
