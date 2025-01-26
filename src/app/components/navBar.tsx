@@ -61,7 +61,7 @@ function NavBar() {
           <div className="hidden md:flex items-center space-x-4">
             <Link
               href="/login"
-              className="px-4 py-2 border-blue-400 border rounded-lg hover:bg-foreground/5"
+              className="px-4 py-2 text-blue-400 border-blue-400 border rounded-lg hover:bg-blue-50"
             >
               Log in
             </Link>
